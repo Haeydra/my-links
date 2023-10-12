@@ -1,10 +1,10 @@
 
 .ld-custom-name {
-    color: black;
+    color: rgb(65, 65, 65);
 }
 
 .ld-custom-name:visited {
-    color: black;
+    color: rgb(65, 65, 65);
 }
 
 .ld-custom-button-container {
@@ -17,8 +17,8 @@
     -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    background-color: #2665d6;
-    color: #fff;
+    background: rgba(135, 206, 250, 0.664);
+    color: #494949;
 }
 
 .ld-custom-button-container:hover {
@@ -37,5 +37,5 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #fff;
+    background-image: url(Doa.jpg);
 }
