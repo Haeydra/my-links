@@ -1,32 +1,27 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Semih Çelenk",
+  "description": "Computer engineering student",
+  "image_url": "https://media.licdn.com/dms/image/D4D03AQEAJzbVC6ftHw/profile-displayphoto-shrink_800_800/0/1696326158936?e=1702512000&v=beta&t=G_ehn8YE6HiJTan-Hf0dC-8rbU6Fozh0DfI8nmclVYM",
   "links": [
     {
       "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
+      "url": "https://www.instagram.com/haeydraa/",
       "icon": "instagram"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCvSbaW4cKxSVO5xtq51qXsQ",
+      "icon": "youtube"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/semih-celenk/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/Haeydra",
       "icon": "github"
-    },
-    {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
     }
   ]
 }
